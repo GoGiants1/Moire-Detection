@@ -1,0 +1,14 @@
+src/jin_100
+src/M_400
+src/Moire_0722_Resized
+src/negativeImages
+src/positiveImages
+src/testDataNegative
+src/testDataPositive
+src/testNegative
+src/testPositive
+src/trainDataNegative
+src/trainDataPositive
+src/__pycache__
+src/.ipynb_checkpoints
+.DS_Store
